@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardobalk/nuxt3-tailwindcss.git"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "node .output/server/index.mjs",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.1.1",
+    "@nuxtjs/color-mode": "^3.3.0",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^2.46.0",
+    "nuxt": "^v3.3.1",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "@tailwindcss/typography": "^0.5.10",
+    "pinia": "^2.1.6",
+    "theme-change": "^2.5.0"
+  }
+}

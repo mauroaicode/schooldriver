@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4a7c850-ecce-42f8-b6df-c0f89c201a47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/imports.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/nuxt.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/nuxt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/schema/nuxt.schema.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/schema/nuxt.schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/app.config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/imports.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/layouts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/middleware.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro-config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro-imports.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro-routes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/plugins.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/schema.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/types/vue-shim.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/iconschooldriver.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Avatar/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Header/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/Notification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/SwitchDarkLight.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Header/header-store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Icon/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Logo/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Menu/Admin/MenuAdmin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Sidebar/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tailwindcss.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/hello.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.10/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;6f6f6fff&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2VYAANHW1OFn2D4r0ARN38YFaYB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "18.17.1",
+    "javascript.nodejs.core.library.typings.version": "18.17.1",
+    "last_opened_file_path": "/Users/mauriciogutierrez/Vue/schooldriver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shared/components/Icon" />
+      <recent name="$PROJECT_DIR$/shared/components/Index" />
+      <recent name="$PROJECT_DIR$/shared" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4a7c850-ecce-42f8-b6df-c0f89c201a47" name="Changes" comment="" />
+      <created>1695002496204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695002496204</updated>
+      <workItem from="1695002497936" duration="542000" />
+      <workItem from="1695003162274" duration="26000" />
+      <workItem from="1695003192934" duration="1393000" />
+      <workItem from="1695004906416" duration="150000" />
+      <workItem from="1695005484568" duration="380000" />
+      <workItem from="1695005873721" duration="173000" />
+      <workItem from="1695006061140" duration="36000" />
+      <workItem from="1695006109032" duration="12665000" />
+      <workItem from="1695040301797" duration="4550000" />
+      <workItem from="1695044874437" duration="25720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
