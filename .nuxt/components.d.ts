@@ -2,6 +2,7 @@
 declare module 'vue' {
   export interface GlobalComponents {
     'Avatar': typeof import("../shared/components/Avatar/Index.vue")['default']
+    'CardsCardBackground': typeof import("../shared/components/Cards/CardBackground.vue")['default']
     'Header': typeof import("../shared/components/Header/Index.vue")['default']
     'HeaderNavtoolsNotification': typeof import("../shared/components/Header/Navtools/Notification.vue")['default']
     'HeaderNavtoolsProfile': typeof import("../shared/components/Header/Navtools/Profile.vue")['default']
@@ -30,6 +31,7 @@ declare module 'vue' {
     'Html': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Html']
     'Body': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
     'LazyAvatar': typeof import("../shared/components/Avatar/Index.vue")['default']
+    'LazyCardsCardBackground': typeof import("../shared/components/Cards/CardBackground.vue")['default']
     'LazyHeader': typeof import("../shared/components/Header/Index.vue")['default']
     'LazyHeaderNavtoolsNotification': typeof import("../shared/components/Header/Navtools/Notification.vue")['default']
     'LazyHeaderNavtoolsProfile': typeof import("../shared/components/Header/Navtools/Profile.vue")['default']
@@ -61,6 +63,7 @@ declare module 'vue' {
 }
 
 export const Avatar: typeof import("../shared/components/Avatar/Index.vue")['default']
+export const CardsCardBackground: typeof import("../shared/components/Cards/CardBackground.vue")['default']
 export const Header: typeof import("../shared/components/Header/Index.vue")['default']
 export const HeaderNavtoolsNotification: typeof import("../shared/components/Header/Navtools/Notification.vue")['default']
 export const HeaderNavtoolsProfile: typeof import("../shared/components/Header/Navtools/Profile.vue")['default']
@@ -89,6 +92,7 @@ export const Head: typeof import("../node_modules/nuxt/dist/head/runtime/compone
 export const Html: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Html']
 export const Body: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
 export const LazyAvatar: typeof import("../shared/components/Avatar/Index.vue")['default']
+export const LazyCardsCardBackground: typeof import("../shared/components/Cards/CardBackground.vue")['default']
 export const LazyHeader: typeof import("../shared/components/Header/Index.vue")['default']
 export const LazyHeaderNavtoolsNotification: typeof import("../shared/components/Header/Navtools/Notification.vue")['default']
 export const LazyHeaderNavtoolsProfile: typeof import("../shared/components/Header/Navtools/Profile.vue")['default']

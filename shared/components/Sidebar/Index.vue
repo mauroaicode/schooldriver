@@ -8,7 +8,7 @@
       <!-- Logo -->
       <Logo/>
       <!-- Sidebar Menu -->
-      <ul class="menu p-4">
+      <ul class="menu p-4 space-y-2">
         <slot name="menu"></slot>
       </ul>
     </div>

@@ -2,7 +2,6 @@
 import {storeToRefs} from "pinia";
 import {useChangeThemeStore} from "~/shared/components/Header/header-store";
 
-
 const changeThemeStore = useChangeThemeStore()
 const {isDark} = storeToRefs(changeThemeStore);
 const {changeTheme} = changeThemeStore
@@ -10,10 +9,8 @@ const {changeTheme} = changeThemeStore
 
 <template>
   <label class="swap swap-rotate">
-
     <!-- this hidden checkbox controls the state -->
     <input type="checkbox" v-model="isDark" @click="changeTheme"/>
-
     <!-- sun icon -->
     <svg class="swap-on fill-current w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
       <path

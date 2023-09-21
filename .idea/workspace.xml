@@ -5,54 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a7c850-ecce-42f8-b6df-c0f89c201a47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/components.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/imports.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/nuxt.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/nuxt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/schema/nuxt.schema.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/schema/nuxt.schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/app.config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/imports.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/layouts.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/middleware.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro-config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro-imports.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro-routes.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/nitro.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/plugins.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/schema.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/types/vue-shim.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/iconschooldriver.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Avatar/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Header/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/Notification.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/Profile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/SwitchDarkLight.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Header/header-store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Icon/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Logo/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Menu/Admin/MenuAdmin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/components/Sidebar/Index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/tailwindcss.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/hello.vue" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resources/widget-bg-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/components/Cards/CardBackground.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/components.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dev/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dev/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@iconify_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@iconify_vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@iconify_vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@iconify_vue.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@unhead_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@unhead_vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@unhead_vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/@unhead_vue.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/chunk-76J2PTFD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/chunk-76J2PTFD.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/nuxt_config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/nuxt_config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/nuxt_config.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/nuxt_config.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/pinia.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/pinia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/pinia.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/pinia.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/theme-change.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/theme-change.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/vue-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/vue-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/vue-router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/vue-router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vite/client/deps/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/btn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/theme-change/toggle.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/components/Header/Navtools/Notification.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/Notification.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/components/Header/Navtools/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/Profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/components/Header/Navtools/SwitchDarkLight.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shared/components/Header/Navtools/SwitchDarkLight.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/components/Menu/Admin/MenuAdmin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shared/components/Menu/Admin/MenuAdmin.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/components/Sidebar/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shared/components/Sidebar/Index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +67,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Composition API Component" />
         <option value="TypeScript File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -89,34 +91,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "18.17.1",
-    "javascript.nodejs.core.library.typings.version": "18.17.1",
-    "last_opened_file_path": "/Users/mauriciogutierrez/Vue/schooldriver",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.17.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.17.1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mauriciogutierrez/Vue/schooldriver/assets/images/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "vue.recent.templates": [
-      "Vue Composition API Component"
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/shared/components/Icon" />
       <recent name="$PROJECT_DIR$/shared/components/Index" />
@@ -140,7 +145,10 @@
       <workItem from="1695006061140" duration="36000" />
       <workItem from="1695006109032" duration="12665000" />
       <workItem from="1695040301797" duration="4550000" />
-      <workItem from="1695044874437" duration="25720000" />
+      <workItem from="1695044874437" duration="36513000" />
+      <workItem from="1695124902749" duration="3657000" />
+      <workItem from="1695146519297" duration="4205000" />
+      <workItem from="1695294295107" duration="689000" />
     </task>
     <servers />
   </component>
@@ -149,5 +157,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

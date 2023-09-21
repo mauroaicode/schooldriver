@@ -23,7 +23,6 @@
   "dependencies": {
     "@pinia/nuxt": "^0.4.11",
     "@tailwindcss/typography": "^0.5.10",
-    "pinia": "^2.1.6",
-    "theme-change": "^2.5.0"
+    "pinia": "^2.1.6"
   }
 }

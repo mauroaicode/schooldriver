@@ -6,7 +6,9 @@ export default defineNuxtConfig({
         '@nuxtjs/color-mode'
     ],
     colorMode: {
-        preference: 'ligth'
+        classPrefix: 'dark',
+        dataValue: 'theme',
+        classSuffix: ''
     },
     components: [
         {
@@ -24,9 +26,6 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
-            htmlAttrs: {
-                'data-theme': 'dark'
-            },
             title: 'SchoolDriver',
             charset: 'utf-8',
             meta: [],
